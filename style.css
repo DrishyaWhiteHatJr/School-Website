@@ -1,4 +1,8 @@
-#marqueeStyle{
+#marqueeStyle {
     background-color: dodgerblue;
     color: white;
+}
+
+#principalimg {
+    width: 400px;
 }
